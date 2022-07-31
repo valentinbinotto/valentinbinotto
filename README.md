@@ -11,4 +11,4 @@ I'm interested in infosec and malware. But at the moment I am particularly worki
 
 We have to fight for a fair and open internet. For this purpose I am a member of the Internet Society and a donor of the Electronic Frontier Foundation.
 
-Website: [v434.net](https://v434.net)
+Security: [security.txt](https://v434.net/_well-known/security.txt)
