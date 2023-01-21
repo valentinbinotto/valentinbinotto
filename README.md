@@ -10,5 +10,4 @@ I'm interested in cryptography and open-source projects. But at the moment I am 
 
 We have to fight for a fair and open internet. For this purpose I am a member of the Internet Society and a donor of the Electronic Frontier Foundation.
 
-[About Security](https://v434.net/.well-known/security.txt)<br>
 [Contact me](https://v4zen.com/contact)
