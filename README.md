@@ -14,4 +14,4 @@ We have to fight for a fair and open internet. For this purpose I am a member of
 hello.youthere AT network-operations DOT net
 
 
-  "From the perspective of the infinite and inexplicable universe, do we, all living beings on this earth, really matter?"
+ > From the perspective of the infinite and inexplicable universe, do we, all living beings on this earth, really matter?
