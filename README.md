@@ -1,13 +1,5 @@
-<!--
-From the perspective of the infinite and inexplicable universe, do we, all living beings on this earth, really matter?
-I don't think so.
--->
+
  > From the perspective of the infinite and inexplicable universe, do we, all living beings on this earth, really matter?
-
-
-Hi, I'm Valentin 
-
-I'm interested in networking, cryptography and open-source projects.
 
 We have to fight for a fair and open internet. Because the Internet connects us humans, helps us to exchange thoughts and perhaps also gives us a purpose in life: the interaction, the communication with all other people. 
 I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit. But if we understand how the Internet works, in fact actively shape the Internet ourselves, these profiteers will become what they always were, irrelevant, and we humans will exchange information directly again, simply for the sake of communication and experience and not for the greed of a large corporation.
