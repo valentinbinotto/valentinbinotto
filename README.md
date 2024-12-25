@@ -1,8 +1,8 @@
 
  > From the perspective of the infinite and inexplicable universe, do we, all living beings on this earth, really matter?
 
-We have to fight for a fair and open internet. Because the Internet connects us humans, helps us to exchange thoughts and perhaps also gives us a purpose in life: the interaction, the communication with all other people. 
-I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit. But if we understand how the Internet works, in fact actively shape the Internet ourselves, these profiteers will become what they always were, irrelevant, and we humans will exchange information directly again, simply for the sake of communication and experience and not for the greed of a large corporation.
+We have to fight for a fair and open internet. Because the Internet connects us humans, helps us to exchange thoughts and perhaps also gives us a purpose in life: the interaction, the communication with others. 
+I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit. We have to understand how the Internet works and actively shape the Internet ourselves and we will exchange information directly again, simply for the sake of communication and experience and not for the greed of a large corporation.
 
 For this purpose I am a member of the Internet Society, the International Association for Cryptologic Research and a donor of the EFF.
 
