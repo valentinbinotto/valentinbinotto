@@ -12,11 +12,13 @@ the desire for exchange and knowledge,
 an expression of anarchism
 ```
 
-We have to fight for a fair and open internet. Because the Internet connects us humans, helps us to exchange thoughts and perhaps also gives us a purpose in life: the interaction, the communication with others. 
-I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit. 
+We have to fight for a fair and open internet. Because the Internet connects us humans, helps us to exchange thoughts and perhaps also gives us a purpose in life: the interaction, the communication with others.
+
+I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit.
+
 We have to actively fight for a free and open Internet, for Technology in general and make sure we exchange information directly again, simply for the sake of communicating with each other and not for the greed of a large corporation.
 
 
-
-
-- 8c400bab53f220f13efe0112c1ea2f96
+```
+8c400bab53f220f13efe0112c1ea2f96
+```
