@@ -16,7 +16,7 @@ We have to fight for a fair and open internet. Because the Internet connects us 
 
 I believe the Internet is inherently anarchistic. However, large profit-seeking platforms are trying to exploit the Internet for their own benefit.
 
-We have to actively fight for a free and open Internet, for Technology in general and make sure we exchange information directly again, simply for the sake of communicating with each other and not for the greed of a large corporation.
+We have to actively fight for a free and open Internet, for technology in general and make sure we exchange information directly again, simply for the sake of communicating with each other and not for the greed of a large corporation.
 
 
 ```
